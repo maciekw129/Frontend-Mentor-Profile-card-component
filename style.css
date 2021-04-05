@@ -5,13 +5,10 @@
     font-family: 'Kumbh Sans', sans-serif;
 }
 
-html, body {
-    height: 100%;
-}
-
 /* BACKGROUND STYLING */
 
 .container {
+    height: 100vh;
     position: relative;
     display: flex;
     justify-content: center;
@@ -36,7 +33,7 @@ html, body {
 
 .main {
     z-index: 1;
-    width: 30%;
+    width: 30rem;
     height: auto;
     background-color: white;
     display: flex;
@@ -80,12 +77,6 @@ html, body {
 .main__city {
     margin-top: 1rem;
     color: gray;
-}
-
-@media only screen and (max-width: 956px) {
-    .main {
-        width: 60%;
-    }
 }
 
 /* DATA CONTENT STYLING */
