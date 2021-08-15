@@ -1,10 +1,10 @@
 # Profile card component
 This is a simple project of social media profile card.
 ## Table of Contents
-* General Info
-* Technologies
-* Website Presentation
-* Project Status
+* [General Info](#general-info)
+* [Technologies](#technologies)
+* [Website Presentation](#website-presentation)
+* [Project Status](#project-status)
 ## General Info
 I have made this project to train and improve my HTML, CSS skills and learn BEM methodology. This is one of challenges from Frontend Mentor site. Link to this challenge: https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ.
 ## Technologies
